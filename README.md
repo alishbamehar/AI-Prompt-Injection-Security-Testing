@@ -13,7 +13,7 @@ The testing showed that some prompt injection attempts were successfully blocked
 
 ## Project Report
 The complete project report, including the setup, testing methodology, prompt injection scenarios, results, analysis, and mitigation strategies, can be accessed below:
-[View Project Report](./AI Prompt Injection Security Testing.pdf)
+
 
 ## Conclusion
 The project demonstrated that prompt injection can influence AI behavior in unintended ways. While the AI blocked several attempted attacks, certain techniques successfully resulted in information disclosure. The findings highlight the importance of strong system instructions, input filtering, access controls, monitoring, and regular security testing for AI applications.
